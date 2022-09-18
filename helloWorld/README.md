@@ -4,7 +4,7 @@ This is a classic Hello World.
 
 The purpose was to demonstrate my development environment with Python, Visual Studio Code, and Git/GitHub.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/QJCBv51XZuE)
 
 # Development Environment
 
