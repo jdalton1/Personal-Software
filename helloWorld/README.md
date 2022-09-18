@@ -15,3 +15,4 @@ The purpose was to demonstrate my development environment with Python, Visual St
 # Useful Websites
 
 * [GitHub Website](https://github.com/)
+* [Git Download](https://git-scm.com/downloads)
